@@ -31,7 +31,7 @@ This project recommends 5 similar movies based on the selected movie using:
 
 ## 🚀 How to run locally
 1. Clone the repository
-git clone https://github.com/dipankar-satasci/movie-recommender
+git clone https://github.com/dipankar-datasci/movie-recommender
 
 2. Install dependencies
 pip install -r requirements.txt
