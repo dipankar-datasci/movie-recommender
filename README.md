@@ -39,5 +39,10 @@ pip install -r requirements.txt
 3. Run the app
 streamlit run app.py
 
-## 📸 Screenshot
-(add a screenshot of your app here)
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshot(80).png)
+
+### Recommendations
+![Recommendations](screenshot(81).png)
