@@ -41,5 +41,5 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-![Home](Screenshot%20(80).png)
-![Recommendations](Screenshot%20(81).png)
+![Home](screenshots/screenshot1.png)
+![Recommendations](screenshots/screenshot2.png)
